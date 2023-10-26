@@ -1,0 +1,20 @@
+# MacOS
+**/.DS_Store
+
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Cinema Room REST Service (Kotlin) (1)/*
+!/Cinema Room REST Service (Kotlin) (1)/task/
+/Cinema Room REST Service (Kotlin) (1)/task/*
+!/Cinema Room REST Service (Kotlin) (1)/task/src
+!/Cinema Room REST Service (Kotlin) (1)/task/build.gradle
